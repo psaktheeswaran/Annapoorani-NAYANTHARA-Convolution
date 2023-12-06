@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=Jk_k3q9RoMU&t=56s
 https://www.youtube.com/watch?v=3d6DsjIBzJ4
 
 https://www.youtube.com/watch?v=0cVLNdtXkpg&t=7s
+
+the best explanation on convulution
+
+https://www.youtube.com/playlist?list=PLqinEaadXCHZDTwnjY2u2cDTGLawe9IJr
