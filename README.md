@@ -19,3 +19,5 @@ https://www.geogebra.org/m/MsujYKkG#material/CQz3Hqwc
 https://www.geogebra.org/m/MsujYKkG#material/jwDCtNQF
 
 https://www.geogebra.org/m/KMrAFBxN
+
+https://huggingface.co/spaces/multimodalart/stable-video-diffusion
